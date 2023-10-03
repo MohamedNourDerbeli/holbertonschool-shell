@@ -1,2 +1,2 @@
 #!/bin/bash
-cd "${BASH_SOURCE%/*}" || exit
+cd "${BASH_SOURCE%/*}"
