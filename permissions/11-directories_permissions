@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 770 directory
+chmod -R 766
