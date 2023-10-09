@@ -1,2 +1,2 @@
 #!/bin/bash
-id  guillaume hello:vincent
+if id=guillaume then chown vincent hello
