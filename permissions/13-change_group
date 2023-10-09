@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod group school hello
+chgrp school hello
