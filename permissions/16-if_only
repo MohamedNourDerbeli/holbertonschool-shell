@@ -1,2 +1,2 @@
 #!/bin/bash
-if id=guillaume : chown vincent hello
+if id=guillaume chown vincent hello
