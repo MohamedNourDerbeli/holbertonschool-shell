@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent hello
+chmod 664 hello
