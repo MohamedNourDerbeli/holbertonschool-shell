@@ -1,2 +1,2 @@
 #!/bin/bash
-id hello:vincet guillaume
+id -u guillaume hello:vincent
