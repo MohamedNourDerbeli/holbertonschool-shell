@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -tr . | grep ^f | head
+ls -tr . | head -n 10
