@@ -1,2 +1,2 @@
 #!/bin/bash
-ls-lR | find . -empty
+ls-lR | find  -empty
