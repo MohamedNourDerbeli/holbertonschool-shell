@@ -1,2 +1,2 @@
 #!/bin/bash
-expr $BREATH ^ $LOVE | bc
+expr $BREATH ^ $LOVE 
