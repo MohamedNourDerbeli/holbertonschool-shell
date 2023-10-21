@@ -2,6 +2,17 @@
 
 This is a shell project designed for Holberton School, covering various aspects of shell scripting and Unix systems.
 
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+    - [Basics](#basics)
+    - [Init Files, Variables, and Expansions](#init-files-variables-and-expansions)
+    - [I/O Redirections and Filters](#io-redirections-and-filters)
+    - [Permissions](#permissions)
+2. [Getting Started](#getting-started)
+3. [License](#license)
+4. [Acknowledgments](#acknowledgments)
+
 ## Project Overview
 
 The project is divided into several sub-projects, each focused on specific aspects of shell scripting:
